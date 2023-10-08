@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://i.ibb.co/SNyXNv0/image.png');
+    background-color: #aecce6;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.hero {
+    background-color: #61a5ea;
+    padding: 50px 0;
+}
+
+.products {
+    padding: 50px 0;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+.footer {
+    background-color: #2ae9bc;
+    color: rgb(231, 193, 193);
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
